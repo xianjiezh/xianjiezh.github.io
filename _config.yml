@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ¿ª²©´ó¼ª°É
+title: kaibodajiba
 subtitle:
 description:
-author: º«ÏÈ½Ü
+author: hanxianjie
 language:
 timezone:
 
@@ -78,5 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo: git@github.com:xianjiezh/xianjiezh.github.io.git
+  repo:git@github.com:xianjiezh/xianjiezh.github.io.git
 
